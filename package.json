@@ -1,5 +1,5 @@
 {
-  "name": "vite-multipage-starter",
+  "name": "supabase-sdk",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,8 +11,5 @@
   "devDependencies": {
     "vite": "^6.3.5"
   },
-  "dependencies": {
-    "@tailwindcss/vite": "^4.1.8",
-    "tailwindcss": "^4.1.8"
-  }
+  "dependencies": {}
 }
