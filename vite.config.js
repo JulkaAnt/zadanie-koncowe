@@ -11,6 +11,7 @@ export default defineConfig(async () => {
 
   return {
     root: resolve(__dirname, 'src'),
+    base: '/zadanie-koncowe/',
     build: {
       emptyOutDir: true,
       rollupOptions: {
